@@ -1,0 +1,6 @@
+{
+  "twConsumerKey": "Your Twitter ConsumerKey",
+  "twConsumerSecret": "Your Twitter ConsumerSecret",
+  "twToken": "Your Twitter Token",
+  "TwTokenSecret": "Your Twitter TokenSecret"
+}
